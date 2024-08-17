@@ -1,0 +1,9 @@
+google.generativeai
+openai
+os
+pandas
+re
+string
+subprocess
+time
+unidecode
